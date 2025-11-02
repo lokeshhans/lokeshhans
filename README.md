@@ -1,18 +1,73 @@
+<!-- 💼 Lokesh | Frontend Developer -->
+
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently Working on **React Based Application for future scope**
-
-- 👯 I’m Currently Learning **React**
-
-- 👨‍💻 All of my projects are available at [https://lokeshhans.github.io/portfolio/](https://lokeshhans.github.io/portfolio/)
-
-- 📫 How to reach me **lokeshbaghelhans@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left">
+<h3 align="center">Frontend Developer | ReactJS & Tailwind Specialist</h3>
+<p align="center">
+  <b>Creating Responsive, Scalable & Engaging Web Experiences</b><br/>
+  Proven Impact on Performance, Accessibility & User Engagement | CSE’24
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🌍 About Me  
+- 📍 From **Palwal, Haryana, India**  
+- 💻 Currently improving my **React skills** and building **modern UIs**  
+- 🌱 Exploring **Next.js, Framer Motion, and UI animations**  
+- 💬 Ask me about **ReactJS, TailwindCSS, and Frontend Architecture**  
+- 📫 Reach me at **[lokeshhanswork@gmail.com](mailto:lokeshhanswork@gmail.com)**  
+- 🌐 Visit my **[Portfolio Website](https://lokeshhans.github.io/portfolio/)**  
+- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/lokeshhans/)**  
+
+---
+
+### 🧠 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Featured Projects  
+🔹 **[Portfolio Website](https://lokeshhans.github.io/portfolio/)** — Designed with TailwindCSS & React for clean UI/UX.  
+🔹 **UI Component Library (in progress)** — Building reusable components with Tailwind & Framer Motion.  
+🔹 **Spotify Clone UI** — Replicating modern design with responsive layouts & animations.  
+
+*(You can pin these on your GitHub profile for visibility.)*
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshhans&show_icons=true&theme=tokyonight" alt="lokeshhans stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshhans&theme=tokyonight" alt="streak stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshhans&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🧩 Fun Facts  
+- ✨ I love designing pixel-perfect UI components.  
+- ⚡ I believe “Clean UI = Better UX = Happy Users”.  
+- 🎯 Goal for 2025: Contribute to Open Source Projects and build a SaaS Dashboard UI.  
+
+---
+
+### 🤝 Let’s Connect  
+<p align="center">
+  <a href="mailto:lokeshhanswork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lokeshhans/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://lokeshhans.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">💙 Thank you for visiting my profile! Keep building, keep learning.</p>
